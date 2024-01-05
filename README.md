@@ -11,5 +11,5 @@
    *TASK 3*
     - [ ] The objective is to train a ML regression model that can accurately predict the insurance costs for a given individual.
 #
-SOLUTIONS ARE AVAILABLE BENEATH THE TASK CONCERNED
+#SOLUTIONS ARE AVAILABLE BENEATH THE TASK CONCERNED
 #
