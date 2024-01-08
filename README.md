@@ -1,5 +1,5 @@
 # PYTHON BASICS
-  - [ ] pthon stuff
+  - [ ] python stuff
   - [ ] Numpy
 # LINEAR REGRESSION 
 
