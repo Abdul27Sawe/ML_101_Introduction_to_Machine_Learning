@@ -1,4 +1,7 @@
-# MACHINE LEARNING MODELS  ( LINEAR REGRESSION )
+# PYTHON BASICS
+  - [ ] pthon stuff
+  - [ ] Numpy
+# LINEAR REGRESSION 
 
    *TASK 1*
 1. For simple_linear regression it is a model that will project the profits of establishing a restaurant in a given restaurant in a city with a given population to help you in the decision making process.
