@@ -15,7 +15,7 @@
           
    *TASK 3*
     - [ ] The objective is to train a ML regression model that can accurately predict the insurance costs for a given individual.
-  # A CLASSIFICATION TASK CONCERNING LINEAR REGRESSION
+  # A CLASSIFICATION TASK CONCERNING MOBILE PRICE PREDICTION
   - [ ] The Task requires for the usage of atleast 5 appropriate Machine Learning Algorithms in prediction for the Price of Mobile Phone.
   - [ ] referral data: https://www.kaggle.com/datasets/iabhishekofficial/mobile-price-classification/data
 #
